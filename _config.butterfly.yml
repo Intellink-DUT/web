@@ -39,7 +39,7 @@ code_word_wrap: false
 #   fa-solid fa-comments: https://mp.weixin.qq.com/s?__biz=MzkyMTU4Njk2NQ==&mid=2247483816&idx=1&sn=b4acfe621e53af3db7351fd51d971cc0&chksm=c1801dd2f6f794c43174b96533026056771e85658a357fe3961192685a59ce7de0dbc1476b96&token=1637715112&lang=zh_CN#rd || WeChat || '#ffffff'
 
 social:
-  fa-brands fa-github: https://github.com/intellink-dut || github || '#0b75b7'
+  # fa-brands fa-github: https://github.com/intellink-dut || github || '#0b75b7'
   fa-solid fa-envelope: mailto:intellink_dut@163.com || email || '#0b75b7'
   fa-solid fa-comments: https://mp.weixin.qq.com/s?__biz=MzkyMTU4Njk2NQ==&mid=2247483816&idx=1&sn=b4acfe621e53af3db7351fd51d971cc0&chksm=c1801dd2f6f794c43174b96533026056771e85658a357fe3961192685a59ce7de0dbc1476b96&token=1637715112&lang=zh_CN#rd || WeChat || '#0b75b7'
 # Image (圖片設置)
@@ -52,7 +52,7 @@ favicon: /images/satellite.png
 avatar:
   img: /images/intellink_logo2.png
   # img: /images/satellite.png
-  effect: true
+  effect: false
 
 # Disable all banner image
 disable_top_img: false
