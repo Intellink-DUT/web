@@ -1,8 +1,7 @@
 ---
 title: 测试文档
 tags: 
- - Hexo
- - 教程
+ - 测试
 date: 2024-2-20 22:22
 cover: /images/wc23-qishuiwan1-fjl.jpg
 ---
