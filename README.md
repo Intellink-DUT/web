@@ -4,23 +4,31 @@
 
 ### 预先步骤：
 
-配置本地电脑秘钥 ssh key（不要删除原有的ssh key）
+配置本地电脑秘钥 ssh key（不要删除原有的ssh key）+ Hexo组件
 
 #### 方法：
-CSDN有很多教程，这里给出一个[参考教程](https://blog.csdn.net/weixin_42310154/article/details/118340458?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522170846999216800215063690%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=170846999216800215063690&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-118340458-null-null.142^v99^control&utm_term=github%E9%85%8D%E7%BD%AEssh%20key&spm=1018.2226.3001.4187)
+CSDN有很多教程，这里给出一个[参考教程](https://blog.csdn.net/qq_62928039/article/details/130248518?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522170847522416800185840868%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=170847522416800185840868&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-2-130248518-null-null.142^v99^control&utm_term=github%20hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%20%E6%96%87%E4%BB%B6%E5%9C%A8%E4%B8%80%E4%B8%AAgithub%E5%BA%93%E4%B8%AD&spm=1018.2226.3001.4187)
 
 #### 验证：
 输入代码<code>ssh -T git@github.com</code>
 
 如果返回“Hi Intellink-DUT! You've successfully authenticated, but GitHub does not provide shell access.”说明配置正确。
 
+输入代码<code>hexo -v</code>验证Hexo是否安装完成。
+
 ### 首次配置：
 
-在文件夹中选择一个合适的位置，打开cmd，输入以下代码<code>git clone git@github.com:Intellink-DUT/web.git</code>，cmd进入文件夹，输入<code>cd web</code>，输入下列两行操作，以更新主题文件，
+在文件夹中选择一个合适的位置，打开cmd，输入以下代码
+
+<code>git clone git@github.com:Intellink-DUT/web.git</code>
+
+<code>cd web</code>
 
 <code>rmdir /s /q themes\butterfly</code>
 
 <code>git clone -b master git@github.com:jerryc127/hexo-theme-butterfly.git themes/butterfly</code>
+
+<code>rmdir /s /q .deploy_git</code>
 
 配置完毕。
 
