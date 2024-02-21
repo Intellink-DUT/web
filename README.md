@@ -38,6 +38,9 @@ CSDN有很多教程，这里给出一个[参考教程](https://blog.csdn.net/qq_
 
 建议使用VSCode进行编辑，有关主题和博客页面的编辑可直接阅读[Hexo Butterfly官方教程](https://butterfly.js.org/)。
 
+使用<code>hexo clean && hexo generate && hexo s</code>可以本地预览网站效果，使用Cirl+C退出预览。
+
+
 ### 网站更新：
 
 在web文件夹中打开cmd，输入<code>hexo clean && hexo generate && hexo deploy</code>
