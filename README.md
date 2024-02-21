@@ -16,7 +16,13 @@ CSDN有很多教程，这里给出一个[参考教程](https://blog.csdn.net/wei
 
 ### 首次配置：
 
-在文件夹中选择一个合适的位置，打开cmd，输入以下代码<code>git clone git@github.com:Intellink-DUT/web.git</code>，cmd进入文件夹，输入<code>cd web</code>，~~手动删除web中的.deploy_git文件夹，~~ 配置完毕。
+在文件夹中选择一个合适的位置，打开cmd，输入以下代码<code>git clone git@github.com:Intellink-DUT/web.git</code>，cmd进入文件夹，输入<code>cd web</code>，输入下列两行操作，以更新主题文件，
+
+<code>rmdir /s /q themes\butterfly</code>
+
+<code>git clone -b master git@github.com:jerryc127/hexo-theme-butterfly.git themes/butterfly</code>
+
+配置完毕。
 
 若本地完成过一次clone操作，后续只需要输入<code>git pull</code>则可以完成本地代码的更新。
 
