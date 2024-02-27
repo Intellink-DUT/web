@@ -3,7 +3,7 @@
 # --------------------------------------
 
 nav:
-  logo: /images/lianli-1.png # image
+  logo: https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli-1.png # image
   display_title: true
   fixed: false # fixed navigation bar
 
@@ -11,8 +11,8 @@ nav:
 menu:
   首页: / || fas fa-home
   时间轴: /archives/ || fas fa-archive
-  # 标签: /tags/ || fas fa-tags
-  # 分类: /categories/ || fas fa-folder-open
+  标签: /tags/ || fas fa-tags
+  分类: /categories/ || fas fa-folder-open
   清单||fa fa-heartbeat:
     音乐: /music/ || fas fa-music
     照片: /Gallery/ || fas fa-images
@@ -46,29 +46,28 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://cdn.jsdelivr.net/gh/Intellink-DUT/Intellink-DUT.github.io/images/satellite.png
+favicon: https://intellink-01.oss-cn-beijing.aliyuncs.com/images/satellite.png
 
 # Avatar (頭像)
 avatar:
-  img: https://cdn.jsdelivr.net/gh/Intellink-DUT/Intellink-DUT.github.io/images/intellink_logo2.png
-  # img: /images/satellite.png
+  img: https://intellink-01.oss-cn-beijing.aliyuncs.com/images/intellink_logo2.png
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://cdn.jsdelivr.net/gh/Intellink-DUT/Intellink-DUT.github.io/images/CZ7Y8-launch-wja.jpg
+index_img: https://intellink-01.oss-cn-beijing.aliyuncs.com/images/CZ7Y8-launch-wja.jpg
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://cdn.jsdelivr.net/gh/Intellink-DUT/Intellink-DUT.github.io/images/wc23-qishuiwan1-fjl.jpg
+default_top_img: https://intellink-01.oss-cn-beijing.aliyuncs.com/images/wc23-qishuiwan1-fjl.jpg
 
 # The banner image of archive page
 archive_img: 
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img: https://cdn.jsdelivr.net/gh/Intellink-DUT/Intellink-DUT.github.io/images/wc23-fuzi-fjl.jpg
+tag_img: https://intellink-01.oss-cn-beijing.aliyuncs.com/images/wc23-fuzi-fjl.jpg
 
 # The banner image of tag page
 # format:
@@ -77,7 +76,7 @@ tag_per_img:
 
 # If the banner of category page not setting, it will show the top_img
 # note: category page, not categories page (子分類頁面的 top_img)
-category_img: https://cdn.jsdelivr.net/gh/Intellink-DUT/Intellink-DUT.github.io/images/wc23-qishuiwan1-fjl.jpg
+category_img: https://intellink-01.oss-cn-beijing.aliyuncs.com/images/wc23-qishuiwan1-fjl.jpg
 
 # The banner image of category page
 # format:
