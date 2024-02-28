@@ -6,7 +6,7 @@ tags: 卫星介绍
 categories:
 keywords:
 description: 知识科普
-top_img:
+top_img: https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/Weight.png
 comments:
 cover: https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/Weight.png
 toc:

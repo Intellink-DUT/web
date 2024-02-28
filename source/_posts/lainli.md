@@ -1,6 +1,6 @@
 ---
 title: 大连1号-连理卫星
-date: 2024-2-21 07:30
+date: 2024-2-28 12:00
 updated:
 tags: 卫星介绍
 categories:
@@ -8,7 +8,7 @@ keywords:
 description: 大连1号-连理卫星官方介绍
 top_img: https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/working.jpg
 comments:
-cover: 
+cover: https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/working.jpg
 toc:
 toc_number:
 toc_style_simple:
@@ -25,17 +25,14 @@ aside:
 abcjs:
 ---
 
-<style>
-.center
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-<div class="center">
+## 卫星概述
 
+**大连1号—连理卫星**（Lianli）（以下简称连理卫星）是一颗12U的高分辨率对地遥感立方星，质量为17 kg，体积为416mm×317mm×291.3mm，并使用大连理工大学自有X频段地面测控站（辽宁省第一套地面站）进行测控，主要功能是验证高分辨率遥感成像、国产高可靠OpenHarmony操作系统、先进卫星部组件与基于3D打印技术的超轻型部署器等一系列创新技术。
+
+卫星的主载荷为**高分辨率多光谱相机**，相机具有全色谱和多光谱共5个谱段，能够在轨实现低成本亚米级高分辨率的海洋/对地观测。**OpenHarmony操作系统与国产处理芯片**综合方案的使用，让系统的性能与可靠性大幅提高。不同于传统的卫星姿轨控动力系统所采用的肼类有毒推进剂，这颗卫星使用了创新的**硝酸羟胺(HAN)单组元模块推进系统**，具有绿色无毒、能量高、功耗低、可预包装等特点，大幅提升了微纳卫星在轨快速机动能力。
+
+北京时间2024年1月18日14时许，连理卫星从天舟六号货运飞船成功释放入轨，现正常在轨飞行。
+<!-- 
 |      |  卫星简介 |
 |  ------      |---|
 |  名称    |  大连1号—连理卫星 |
@@ -50,22 +47,13 @@ abcjs:
 |  发射日期    |  2023年05月10日 |
 |  发射基地    | 文昌航天发射场-文昌LC-201 |
 |  国际卫星标识符 | 2023-063A |
-|  卫星现状    | 在轨运行 |
-</div>
-
-## 卫星概述
+|  卫星现状    | 在轨运行 | -->
 
 <center>
 
 ![卫星模型图](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/satellite_model.png)
 卫星模型图
 </center>
-
-**大连1号—连理卫星**（Lianli）（以下简称连理卫星）是一颗12U的高分辨率对地遥感立方星，质量为17 kg，体积为416mm×317mm×291.3mm，并使用大连理工大学自有X频段地面测控站（辽宁省第一套地面站）进行测控，主要功能是验证高分辨率遥感成像、国产高可靠OpenHarmony操作系统、先进卫星部组件与基于3D打印技术的超轻型部署器等一系列创新技术。
-
-卫星的主载荷为**高分辨率多光谱相机**，相机具有全色谱和多光谱共5个谱段，能够在轨实现低成本亚米级高分辨率的海洋/对地观测。**OpenHarmony操作系统与国产处理芯片**综合方案的使用，让系统的性能与可靠性大幅提高。不同于传统的卫星姿轨控动力系统所采用的肼类有毒推进剂，这颗卫星使用了创新的**硝酸羟胺(HAN)单组元模块推进系统**，具有绿色无毒、能量高、功耗低、可预包装等特点，大幅提升了微纳卫星在轨快速机动能力。
-
-北京时间2024年1月18日14时许，连理卫星从天舟六号货运飞船成功释放入轨，现正常在轨飞行。
 
 ## 任务目标
 
@@ -75,8 +63,6 @@ abcjs:
 - 轻量化、高可靠、开源鸿蒙实时操作系统
 - 先进卫星部组件
 - 基于3D打印技术的超轻型部署器等技术
-
-
 
 ## 研制过程
 
@@ -128,21 +114,12 @@ abcjs:
 
 ![地面测控站分布示意图](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/%E8%BF%9E%E7%90%86%E7%9A%84%E5%9C%B0%E9%9D%A2%E6%B5%8B%E6%8E%A7%E7%AB%99.jpg)
 地面测控站分布示意图
-</center>
-
-<center>
 
 ![7.3m X频段卫星测控站（位于大连理工大学主校区海宇楼）](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/%E5%8D%AB%E6%98%9F%E6%B5%8B%E6%8E%A7%E7%AB%99.jpg)
 7.3m X频段卫星测控站（位于大连理工大学主校区海宇楼）
-</center>
-
-<center>
 
 ![测控站对大连1号—连理卫星进行测控](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/%E6%B5%8B%E6%8E%A7%E7%AB%99%E5%AF%B9%E5%A4%A7%E8%BF%9E1%E5%8F%B7%E2%80%94%E8%BF%9E%E7%90%86%E5%8D%AB%E6%98%9F%E8%BF%9B%E8%A1%8C%E6%B5%8B%E6%8E%A7.jpg)
 测控站对大连1号—连理卫星进行测控
-</center>
-
-<center>
 
 ![大连理工大学主校区图片](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/DUT.jpeg)
 由连理卫星拍摄的大连理工大学主校区图片
@@ -163,8 +140,8 @@ abcjs:
 ![微纳卫星与先进推进技术研究团队部分成员](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/%E5%BE%AE%E7%BA%B3%E5%8D%AB%E6%98%9F%E4%B8%8E%E5%85%88%E8%BF%9B%E6%8E%A8%E8%BF%9B%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6%E5%9B%A2%E9%98%9F%E9%83%A8%E5%88%86%E6%88%90%E5%91%98.jpg)
 微纳卫星与先进推进技术研究团队部分成员
 </center>
-<!-- 
-## 参考链接
+
+<!-- ## 参考链接
 
 https://mp.weixin.qq.com/s/IuNXOP3v3Aq4dfPBCN-9hg
 https://mp.weixin.qq.com/s/N178oKQqvC8tiEIEBedkEg
