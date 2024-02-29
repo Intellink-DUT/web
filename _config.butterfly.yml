@@ -386,9 +386,9 @@ local_search:
 # Docsearch
 docsearch:
   enable: false
-  appId:
-  apiKey:
-  indexName:
+  appId: 'TIQS1E8XB6'
+  apiKey: 'a6850024ffe868805aaa43143b3c016c'
+  indexName: 'intellink-dut'
   option:
 
 # Share System (分享)
