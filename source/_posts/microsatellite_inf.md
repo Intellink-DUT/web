@@ -2,8 +2,11 @@
 title: 微纳卫星简介
 date: 2024-2-27 12:00
 updated:
-tags: 卫星介绍
-categories:
+tags:
+ - 微纳卫星
+ - 发展历程
+categories: 
+ - 卫星介绍
 keywords:
 description: 知识科普
 top_img: https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/Weight.png
@@ -29,58 +32,34 @@ abcjs:
 
 ![Weight](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/Weight.png)
 
-微纳卫星是指重量在10kg~100kg的卫星。与大卫星相比，微纳卫星具有重量轻、体积小、成本低、研制周期短、更容易组网形成卫星星座等优势，因此在通信、遥感、电子侦察等领域发挥着越来越重要的作用。
-<center>
+微纳卫星是指重量在10kg~100kg的卫星。与大卫星相比，微纳卫星具有重量轻、体积小、成本低、研制周期短、更容易组网形成卫星星座等优势，因此在通信、遥感、电子侦察等领域发挥着越来越重要的作用。（可于[nanosats](https://www.nanosats.eu/)查到最新数据）
 
 ![RainCube](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/RainCube.jpg)
-RainCube (气象)
 
 ![Lunar Flashlight](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/LunarFlashlight.jpg)
-Lunar Flashlight(月球探测)
 
 ![EDSN](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/EDSN.jpg)
-EDSN (卫星编队)
-</center>
 
 ## 微纳卫星国内外发展情况
 
-<center>
+![各国微纳卫星发射数量](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/Development_1.png)
 
-![Development_1](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/Development_1.png)
-各国微纳卫星发射数量
-
-![Development_2](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/Development_2.png)
-各国微纳卫星星座计划
-（可于[nanosats](https://www.nanosats.eu/)查到最新数据）
-</center>
+![各国微纳卫星星座计划](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/Development_2.png)
 
 ## 微纳卫星的发射方式
 
-<center>
+![火箭搭载](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/Rocket.png)
 
-![Rocket](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/Rocket.png)
-火箭搭载
+![货运飞船搭载](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/CargoSpaceship.jpg)
 
-![CargoSpaceship](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/CargoSpaceship.jpg)
-货运飞船搭载
-
-![SpaceStation](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/SpaceStation.jpg)
-空间站搭载与释放2
-</center>
+![空间站搭载与释放2](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/SpaceStation.jpg)
 
 ## 微纳卫星的应用场景
 
-<center>
+![对地成像—Planet 公司](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/Planet.png)
 
-![Planet](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/Planet.png)
-对地成像—Planet 公司
+![深空探测—MARCO火星卫星](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/MARCO.png)
 
-![MARCO](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/MARCO.png)
-深空探测—MARCO火星卫星
+![电子侦察—HawEye360](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/HawEye360.png)
 
-![HawEye360](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/HawEye360.png)
-电子侦察—HawEye360
-
-![SpaceX](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/SpaceX.jpg)
-高速互联网通讯—SPACE X
-</center>
+![高速互联网通讯—SPACE X](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/SpaceX.jpg)

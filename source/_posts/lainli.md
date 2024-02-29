@@ -2,13 +2,17 @@
 title: 大连1号-连理卫星
 date: 2024-2-28 12:00
 updated:
-tags: 卫星介绍
-categories:
+tags: 
+ - 连理卫星
+ - 任务概述
+ - 研制过程
+categories: 
+ - 卫星介绍
 keywords:
 description: 大连1号-连理卫星官方介绍
-top_img: https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/working.jpg
+top_img: https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/satellite_model.png
 comments:
-cover: https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/working.jpg
+cover: https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/satellite_model.png
 toc:
 toc_number:
 toc_style_simple:
@@ -32,7 +36,9 @@ abcjs:
 卫星的主载荷为**高分辨率多光谱相机**，相机具有全色谱和多光谱共5个谱段，能够在轨实现低成本亚米级高分辨率的海洋/对地观测。**OpenHarmony操作系统与国产处理芯片**综合方案的使用，让系统的性能与可靠性大幅提高。不同于传统的卫星姿轨控动力系统所采用的肼类有毒推进剂，这颗卫星使用了创新的**硝酸羟胺(HAN)单组元模块推进系统**，具有绿色无毒、能量高、功耗低、可预包装等特点，大幅提升了微纳卫星在轨快速机动能力。
 
 北京时间2024年1月18日14时许，连理卫星从天舟六号货运飞船成功释放入轨，现正常在轨飞行。
-<!-- 
+
+![卫星模型图](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/satellite_model.png)
+
 |      |  卫星简介 |
 |  ------      |---|
 |  名称    |  大连1号—连理卫星 |
@@ -47,13 +53,7 @@ abcjs:
 |  发射日期    |  2023年05月10日 |
 |  发射基地    | 文昌航天发射场-文昌LC-201 |
 |  国际卫星标识符 | 2023-063A |
-|  卫星现状    | 在轨运行 | -->
-
-<center>
-
-![卫星模型图](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/satellite_model.png)
-卫星模型图
-</center>
+|  卫星现状    | 在轨运行 |
 
 ## 任务目标
 
@@ -68,11 +68,8 @@ abcjs:
 
 连理卫星的项目启动于2020年4月24日，并在同年的4月到10月完成了遥感观测、载荷搭载等科学目标论证。2020年10月，经由面向全校师生与校友的征名活动，确定卫星命名为“连理”。由夏广庆、于晓洲教授率领的团队于2021年完成了卫星总体方案设计和分系统详细方案设计，并在2022年12月完成了卫星搭载天舟六号的搭载评审。团队从2022年1月开始进行卫星与部署器的研制、总装、测试工作并于2023年3月完成了连理卫星向天舟六号的交付。
 
-<center>
-
 ![于晓洲教授和连理卫星](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/%E5%A4%A7%E8%BF%9E1%E5%8F%B7%E2%80%94%E8%BF%9E%E7%90%86%E5%8D%AB%E6%98%9F%E5%9C%A8%E6%B5%B7%E5%8D%97%E6%96%87%E6%98%8C%E5%8F%91%E5%B0%84%E5%9C%BA.jpg)
 于晓洲教授和连理卫星
-</center>
 
 - 项目启动： 2020年4月24日（航天日）；
 - 科学目标论证：2020年4月~10月，高分辨率遥感观测、新型载荷搭载验证方面的目标论证；
@@ -94,52 +91,20 @@ abcjs:
 
 长征七号火箭发射前，卫星通过超轻型多星部署器（Ultralight Multiple Satellites Deployers, UMSD）安装在天舟六号飞船外部。
 
-<center>
-
-![UMSD部署装置](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/UMSD_deployer.jpg)
-连理卫星装入UMSD部署器
-</center>
-
-在天舟六号进入太空到完成各项任务后与空间站分离的这段时间里，连理卫星长期保存在UMSD中，伴随飞行。
-
-<center>
-
 ![大连1号—连理卫星在空间站组合体位置示意图](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/%E5%A4%A7%E8%BF%9E1%E5%8F%B7%E2%80%94%E8%BF%9E%E7%90%86%E5%8D%AB%E6%98%9F%E5%9C%A8%E7%A9%BA%E9%97%B4%E7%AB%99%E7%BB%84%E5%90%88%E4%BD%93%E4%BD%8D%E7%BD%AE%E7%A4%BA%E6%84%8F%E5%9B%BE.jpg)
 神舟十六号航天员桂海潮拍摄的空间站组合体相片中的连理卫星
-</center>
 
 在星船分离后，测运控工作顺利进行，卫星进入稳定运行阶段。在轨数据表明，卫星测试载荷验证性能表现出色，为未来卫星任务提供了可靠的技术基础。
 
-<center>
-
-![地面测控站分布示意图](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/%E8%BF%9E%E7%90%86%E7%9A%84%E5%9C%B0%E9%9D%A2%E6%B5%8B%E6%8E%A7%E7%AB%99.jpg)
-地面测控站分布示意图
-
-![7.3m X频段卫星测控站（位于大连理工大学主校区海宇楼）](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/%E5%8D%AB%E6%98%9F%E6%B5%8B%E6%8E%A7%E7%AB%99.jpg)
-7.3m X频段卫星测控站（位于大连理工大学主校区海宇楼）
-
-![测控站对大连1号—连理卫星进行测控](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/%E6%B5%8B%E6%8E%A7%E7%AB%99%E5%AF%B9%E5%A4%A7%E8%BF%9E1%E5%8F%B7%E2%80%94%E8%BF%9E%E7%90%86%E5%8D%AB%E6%98%9F%E8%BF%9B%E8%A1%8C%E6%B5%8B%E6%8E%A7.jpg)
-测控站对大连1号—连理卫星进行测控
-
-![大连理工大学主校区图片](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/DUT.jpeg)
-由连理卫星拍摄的大连理工大学主校区图片
-</center>
-
 学校卫星地面测控站运行正常，将持续承担卫星的运管、测控和数传接收工作。夏广庆教授表示，根据轨控需求及安全性分析，卫星后续可能安排变轨运行。
 
-<!-- ## 卫星系统 -->
+![地面测控站分布示意图](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/%E8%BF%9E%E7%90%86%E7%9A%84%E5%9C%B0%E9%9D%A2%E6%B5%8B%E6%8E%A7%E7%AB%99.jpg)
 
-## 团队简介
+![7.3m X频段卫星测控站（位于大连理工大学主校区海宇楼）](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/%E5%8D%AB%E6%98%9F%E6%B5%8B%E6%8E%A7%E7%AB%99.jpg)
 
-**总设计师**：夏广庆，工学博士，大连理工大学力学与航空航天学院教授，现任大连理工大学力学与航空航天学院党委书记，主要研究方向为电推进理论与实验、先进空间推进系统设计、微纳卫星总体设计、飞行器流固耦合模拟与测试等。[夏广庆--大连理工大学教师主页](http://faculty.dlut.edu.cn/xiaguangqing/zh_CN/index.htm)
+![测控站对大连1号—连理卫星进行测控](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/%E6%B5%8B%E6%8E%A7%E7%AB%99%E5%AF%B9%E5%A4%A7%E8%BF%9E1%E5%8F%B7%E2%80%94%E8%BF%9E%E7%90%86%E5%8D%AB%E6%98%9F%E8%BF%9B%E8%A1%8C%E6%B5%8B%E6%8E%A7.jpg)
 
-**总指挥**：于晓洲，工学博士，大连理工大学力学与航空航天学院教授，主要研究方向为微小卫星、航天器系统工程、微小卫星先进部组件等。目前全世界唯一一支团队，其研制的立方星搭载过美国的天鹅座(Cygnus)飞船也搭乘过中国的天舟飞船，去过国际空间站也去过中国空间站。[于晓洲--大连理工大学教师主页](http://faculty.dlut.edu.cn/yuxiaozhou/zh_CN/index.htm)
-
-<center>
-
-![微纳卫星与先进推进技术研究团队部分成员](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/%E5%BE%AE%E7%BA%B3%E5%8D%AB%E6%98%9F%E4%B8%8E%E5%85%88%E8%BF%9B%E6%8E%A8%E8%BF%9B%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6%E5%9B%A2%E9%98%9F%E9%83%A8%E5%88%86%E6%88%90%E5%91%98.jpg)
-微纳卫星与先进推进技术研究团队部分成员
-</center>
+![大连理工大学主校区图片](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/DUT.jpeg)
 
 <!-- ## 参考链接
 
