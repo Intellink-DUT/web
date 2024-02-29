@@ -11,14 +11,14 @@ nav:
 menu:
   首页: / || fas fa-home
   时间轴: /archives/ || fas fa-archive
-  标签: /tags/ || fas fa-tags
-  分类: /categories/ || fas fa-folder-open
-  清单||fa fa-heartbeat:
-    音乐: /music/ || fas fa-music
-    照片: /Gallery/ || fas fa-images
-    电影: /movies/ || fas fa-video
-  友链: /link/ || fas fa-link
-  关于: /about/ || fas fa-heart
+  # 标签: /tags/ || fas fa-tags
+  # 分类: /categories/ || fas fa-folder-open
+  # 清单||fa fa-heartbeat:
+  #   音乐: /music/ || fas fa-music
+  #   照片: /Gallery/ || fas fa-images
+  #   电影: /movies/ || fas fa-video
+  # 友链: /link/ || fas fa-link
+  # 关于: /about/ || fas fa-heart
 
 
 
@@ -213,7 +213,7 @@ noticeOutdate:
 footer:
   owner:
     enable: true
-    since: 2020
+    since: 2024
   custom_text:
   copyright: true # Copyright of theme and framework
 
@@ -413,15 +413,6 @@ comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/Artalk
   use: Gitalk # Valine,Disqus
-  # Giscus
-  # https://giscus.app/
-  gitalk:
-    client_id: '7aadd8fe20d4a3ea7a8'
-    client_secret: '5aa154b3d4c18b047b94ab8070f93fd79eaee8ce'
-    repo: 'https://github.com/Intellink-DUT/web-comments.git'
-    owner: 'Intellink-DUT'
-    admin: ['']
-    option:
   text: true # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
@@ -451,11 +442,14 @@ livere:
 # gitalk
 # https://github.com/gitalk/gitalk
 gitalk:
-  client_id:
-  client_secret:
-  repo:
-  owner:
-  admin:
+  client_id: 'c7aadd8fe20d4a3ea7a8'
+  client_secret: 'cd5b1312e5a89737b1b981bf08d9da2dc0e3c344'
+  repo: 'web-comments'
+  owner: 'Intellink-DUT'
+  admin: ['Intellink-DUT']
+  language: zh-CN
+  perPage: 20
+  labels: ['Gitalk']
   option:
 
 # valine
