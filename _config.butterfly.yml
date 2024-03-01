@@ -20,7 +20,9 @@ menu:
   #   电影: /movies/ || fas fa-video
   友链: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
-
+  语言||fas fa-language:
+    English: https://Intellink-DUT.github.io/en/ || fas fa-e
+    中文: https://Intellink-DUT.github.io/ || fas fa-c
 
 
 # Code Blocks (代碼相關)
