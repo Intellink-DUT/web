@@ -18,13 +18,11 @@ menu:
   #   音乐: /music/ || fas fa-music
   #   照片: /Gallery/ || fas fa-images
   #   电影: /movies/ || fas fa-video
-  Links: /link/ || fas fa-link
+  # Links: /link/ || fas fa-link
   About Us: /about/ || fas fa-heart
   Language || fas fa-language:
     中文: https://Intellink-DUT.github.io/ || fas fa-c
     English: https://Intellink-DUT.github.io/en/ || fas fa-e
-    
-
 
 # Code Blocks (代碼相關)
 # --------------------------------------

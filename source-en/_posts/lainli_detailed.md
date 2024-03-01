@@ -29,4 +29,4 @@ aside:
 abcjs:
 ---
 
-test
+Waiting for translation...

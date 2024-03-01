@@ -31,7 +31,7 @@ abcjs:
 
 ## 卫星概述
 
-**大连1号—连理卫星**（Lianli）（以下简称连理卫星）是一颗12U的高分辨率对地遥感立方星，质量为17 kg，体积为416mm×317mm×291.3mm，并使用大连理工大学自有X频段地面测控站（辽宁省第一套地面站）进行测控，主要功能是验证高分辨率遥感成像、国产高可靠OpenHarmony操作系统、先进卫星部组件与基于3D打印技术的超轻型部署器等一系列创新技术。
+**大连1号—连理卫星**（Lianli）（以下简称连理卫星）是一颗12U的高分辨率对地遥感立方星，质量为17 kg，体积为1012.3mmx428mmx403mm（展开状态），并使用大连理工大学自有X频段地面测控站（辽宁省第一套地面站）进行测控，主要功能是验证高分辨率遥感成像、国产高可靠OpenHarmony操作系统、先进卫星部组件与基于3D打印技术的超轻型部署器等一系列创新技术。
 
 卫星的主载荷为**高分辨率多光谱相机**，相机具有全色谱和多光谱共5个谱段，能够在轨实现低成本亚米级高分辨率的海洋/对地观测。**OpenHarmony操作系统与国产处理芯片**综合方案的使用，让系统的性能与可靠性大幅提高。不同于传统的卫星姿轨控动力系统所采用的肼类有毒推进剂，这颗卫星使用了创新的**硝酸羟胺(HAN)单组元模块推进系统**，具有绿色无毒、能量高、功耗低、可预包装等特点，大幅提升了微纳卫星在轨快速机动能力。
 
@@ -174,14 +174,14 @@ HAN推进具有绿色无毒、能量高、可实现预包装（免现场加注�
 * 解锁机构：记忆合金分离螺母;
 * 通电时间：2s;
 * 分离电阻：1±0.2Ω;
-* 分离能量需求：＜50J;
+* 分离能量需求：<50J;
 * 包络：343.5mm×470mm×516.3mm。
 
 ### 部署器各动作时机
 
-![部署器结构示意图-1](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/12-UMSD.jpg)
-![部署器结构示意图-2](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/13-UMSD.jpg)
-![部署器结构示意图-3](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/14-UMSD.jpg)
+![部署器结构示意图-1](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/13-UMSD.jpg)
+![部署器结构示意图-2](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/13-2-UMSD.png)
+![部署器结构示意图-3](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/13-3-UMSD.png)
 
 * 发射段：部署器承受火箭加速度及振动引起的载荷作用。
 * 停靠段：为卫星提供存储空间以及合适的空间环境，包括温度控制及空间防护。分离控制盒提供配电、温度模拟量采集转发等功能。
