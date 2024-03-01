@@ -1,16 +1,19 @@
 # 智连星宇网站编辑基本操作
 
-### 说明：本网站采用 Github+Hexo插件+Butterfly模板 制作，小编只知道下面的方法不会出错，其他的不懂，欢迎接力更新！
+**说明：本网站采用 Github+Hexo插件+Butterfly模板 制作，接力更新！**
 
-#### 截止21号中午，待改进的部分包括但不限于：
-1、添加评论功能（技术路线很多，最基础的就行）
-2、站内检索功能（技术路线很多，最基础的就行）
-3、更丰富的主页（不限于增加动态标签、增加更新日历、天气预报(这个会是有用的)等）
-4、添加连理卫星Pages，并陆续把文字和图片放进去（感觉都放在一个md下可能有点大）
-5、更多的图片和小功能，尽量美观丰富，一开始不怕花哨（觉得花哨后续删掉就是了），主要想把原模板的功能尽量都试试（[参考网站](https://butterfly.js.org/link/#%E7%A4%BA%E4%BE%8B)）
+#### 截止2024年3月1日，工作进度：
+
+1、已添加评论功能
+2、站内检索功能暂时取消
+3、主页装饰基本完成
+4、连理卫星档案第一期完成
+5、网站中英互换功能以半成品效果告一段落，不再作为重点开发。
+
 #### 后续建设：
-1、适合大学生体质的航天科普博主（Pages）
-2、适合大学生体质的航天信息渠道（Pages）
+1、适合大学生体质的航天科普博主：[初步方案设计](https://docs.qq.com/sheet/DWW5XdEJJQWp0Y25I?u=263eec4d9b3b455ead3256cb6ef56eea&tab=BB08J2)
+2、适合大学生体质的航天信息渠道
+
 #### 期待网站的用处：
 1、智连星宇社团信息网站
 2、连理卫星1、2号的信息网站
@@ -55,10 +58,9 @@ CSDN有很多教程，这里给出一个[参考教程](https://blog.csdn.net/qq_
 
 使用<code>hexo clean && hexo generate && hexo s</code>可以本地预览网站效果，使用Ctrl+C退出预览。
 
-
 ### 网站更新：
 
-在web文件夹中打开cmd，输入<code>hexo clean && hexo generate && hexo deploy</code>
+在web文件夹中打开cmd，输入<code>hexo clean && hexo g --config _config.yml -f && hexo g --config config-en.yml -f && hexo d</code>
 
 稍等1~2分钟，网站将更新，其中可以查看网站github的Actions查看加载进度。
 

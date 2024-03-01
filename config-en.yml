@@ -4,8 +4,8 @@
 
 # Site
 title: DUT Intellink
-subtitle: 'The Intellink, Dalian University of Technology'
-description: 'Working'
+subtitle: 'The Intellink Society of Astronautics from Dalian University of Technology'
+description: 'A continuously improving website'
 keywords: 
 author: DUT Intellink
 language: en
@@ -14,14 +14,14 @@ email: intellink_dut@163.com
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://Intellink-DUT.github.io/en
+url: https://Intellink-DUT.github.io/en/
 root: /en/
 permalink: :year/:month/:day/:title/
 # permalink: posts/:abbrlink/
 permalink_defaults:
 pretty_urls:
-  trailing_index:  # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html:  # Set to false to remove trailing '.html' from permalinks
+  trailing_index: false # Set to false to remove trailing 'index.html' from permalinks
+  trailing_html: false # Set to false to remove trailing '.html' from permalinks
 
 # abbrlink:
 #   alg: crc32 #support crc16(default) and crc32
